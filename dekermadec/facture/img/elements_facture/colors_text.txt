@@ -1,0 +1,44 @@
+rouge : #9a373d
+moutarde : #dd8037
+violet : #74375e ou #600e40
+
+
+
+texts
+
+
+INKSTATE CORPORATION
+
+
+Invoice To : Peter Mckay
+
+64 Street, Los Angeles, CA +212211223
+
+
+Invoice No.000020
+01/02/2022
+
+
+
+Street Address Here Canada, 2222
+urwebsitename.com urname@email.com
+
+
+  Item Description Price Qty. Total
+1 Flyer An invoice is a document sent to a buyer that specifies the amount and cost of products or services $50.00 1 $50.00
+2 T-shirt An invoice is a document sent to a buyer that specifies the amount and cost of products or services $20.00 3 $60.00 
+3 Brochure An invoice is a document sent to a buyer that specifies the amount and cost of products or services $10.00 2 $20.00
+4 Letterhead An invoice is a document sent to a buyer that specifies the amount and cost of products or services $90.00 1 $90.00
+
+Sub Total : $220.00
+Tax : 0.00%
+Total : $220.00
+
+
+Payment Methods : Paypal : paypal@corp.com
+Card : Mastercard, Visa, Payoneer
+
+Mark Edison
+CEO & Director
+
+Terms & Conditions : An invoice is a document sent to a buyer that specifies the amount and cost of products or services that have been provided by a seller

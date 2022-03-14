@@ -1,0 +1,21 @@
+ul li {
+    list-style-type: none;
+}
+div.col-3 div.row ul li {
+    align-items: center;
+    text-align: center;
+}
+div.col-9 div.row ul li{
+    background-color: rgba(0, 0, 0, 0.205);
+    width: auto;
+    height: 90px;
+}
+div.col-9 div.row Div.col-5 ul li p:last-child {
+    font-size: 10px;
+}
+div.col-9 div.row.table li{
+    border-bottom: solid 1px black;
+}
+div.warpper {
+    flex: right;
+}
